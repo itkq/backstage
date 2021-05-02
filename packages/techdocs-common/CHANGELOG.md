@@ -1,5 +1,15 @@
 # @backstage/techdocs-common
 
+## 0.5.2
+
+### Patch Changes
+
+- e9e56b01a: Adding optional config to enable S3-like API for tech-docs using s3ForcePathStyle option.
+  This allows providers like LocalStack, Minio and Wasabi (+possibly others) to be used to host tech docs.
+- Updated dependencies [d8b81fd28]
+  - @backstage/catalog-model@0.7.8
+  - @backstage/config@0.1.5
+
 ## 0.5.1
 
 ### Patch Changes

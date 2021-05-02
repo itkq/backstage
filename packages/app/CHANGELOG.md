@@ -1,5 +1,18 @@
 # example-app
 
+## 0.2.27
+
+### Patch Changes
+
+- Updated dependencies [6f1b82b14]
+- Updated dependencies [b2e2ec753]
+- Updated dependencies [d8b81fd28]
+  - @backstage/plugin-cost-insights@0.9.0
+  - @backstage/plugin-tech-radar@0.3.10
+  - @backstage/catalog-model@0.7.8
+  - @backstage/cli@0.6.10
+  - @backstage/plugin-scaffolder@0.9.3
+
 ## 0.2.26
 
 ### Patch Changes
